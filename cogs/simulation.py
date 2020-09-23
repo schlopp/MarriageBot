@@ -50,6 +50,7 @@ class Simulation(utils.Cog):
                 "Woah woah, you two are family!",
                 # f"Incest is wincest, I guess.",
                 "You two are related but go off I guess.",
+                "sweeeeet homeeeee alabama",
             ]
         await ctx.send(random.choice(responses), image_url=image_url)
 
